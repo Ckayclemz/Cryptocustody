@@ -118,4 +118,4 @@ To deploy this contract on the Stacks blockchain:
 - The contract currently supports a maximum of 100 assets per account
 - A maximum of 5 beneficiaries can be designated
 - The contract does not handle the actual transfer of tokens - it only manages the authorization logic
-- Actual token transfers would need to be implement
+- Actual token transfers would need to be implemented
